@@ -1,6 +1,6 @@
 # CS-290-Web-Development---App
 
-<img src="https://i.imgur.com/XidtXq5.gif" width=800><br>
+<img src="https://i.imgur.com/XidtXq5.gif" width=400><br>
 
 
 In this assignment, you’ll write a client-side application using React. You will use HTML page layout tags and CSS rules to design the page layout, tables, and form controls. In addition, you'll use React to render the content.
